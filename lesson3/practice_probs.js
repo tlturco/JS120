@@ -1,3 +1,4 @@
+
 let RECTANGLE = {
   area: function() {
     return this.width * this.height;
