@@ -1,5 +1,5 @@
 
-/*
+
 //Typical constructor definition
 //constructor & prototype
 
@@ -23,7 +23,7 @@ console.log(rec instanceof Rectangle); //true
 console.log(rec.constructor); //[FUnction: Rectangle]
 console.log(rec.getArea()); //50
 console.log(Rectangle.getDescription());
-*/
+
 
 
 /*
